@@ -1,0 +1,5 @@
+npm create vite@latest - Inicia o Vite e abre a seleção das preferencias
+
+npm i - installa todas as dependencias do react
+
+npm run dev - inicia o servidor local com vite + react
